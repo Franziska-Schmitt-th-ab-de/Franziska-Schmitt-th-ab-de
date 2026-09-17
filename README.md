@@ -11,10 +11,10 @@ Ich interessiere mich für datengetriebene Fragestellungen an der Schnittstelle 
   Bachelorarbeit: Python-Pipeline zur Analyse von Microelectrode-Array-Daten mit Burst Detection, Feature Extraction, statistischer Auswertung und Visualisierung.
 
 - **[LiDAR Semantic Segmentation](https://github.com/Franziska-Schmitt-th-ab-de/lidar-semantic-segmentation)**  
-  PyTorch-Pipeline zur semantischen Segmentierung von LiDAR-Daten; mein Schwerpunkt lag auf einem ResNet34-basierten Encoder-Decoder-Modell.
+  Gruppenprojekt: PyTorch-Pipeline zur semantischen Segmentierung von LiDAR-Daten; mein Schwerpunkt lag auf einem ResNet34-basierten Encoder-Decoder-Modell.
 
 - **[Terrain Classification](https://github.com/Franziska-Schmitt-th-ab-de/terrain-classification-model-benchmark)**  
-  Vergleich klassischer Machine-Learning-Modelle und eines CNN zur Klassifikation von Terrain-Höhenkarten.
+  Gruppenprojekt: Vergleich klassischer Machine-Learning-Modelle und eines CNN zur Klassifikation von Terrain-Höhenkarten.
   
 - **[Food.com Recipe Trends Analysis](https://github.com/Franziska-Schmitt-th-ab-de/foodcom-recipe-trends-analysis)**  
   Explorative Datenanalyse von Food.com-Rezepten mit Fokus auf Zutaten, Saisonalität, Popularität und Nährwerten sowie deren Visualisierung in Python.
